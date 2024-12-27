@@ -12,7 +12,7 @@ This project also aimed to explore temporal patterns, including daily and monthl
 ## Conclusion
 The analysis highlights the dominant role of the Classic category and Large-sized pizzas in driving sales. It also identifies weekends and evening hours as the busiest times for orders, enabling targeted marketing and operational strategies. The report emphasizes the importance of continuously analyzing sales data to optimize inventory, pricing, and promotional efforts, ensuring sustained revenue growth.
 
-<img width="1002" alt="Screenshot 2024-12-27 at 12 43 31 PM" src="https://github.com/user-attachments/assets/ee2ce7b9-619d-4bd2-9067-342eec4dfa11" />
-
 <img width="1004" alt="Screenshot 2024-12-27 at 12 43 17 PM" src="https://github.com/user-attachments/assets/dd8a7363-21db-4049-9d5e-0252814e4e85" />
+
+<img width="1002" alt="Screenshot 2024-12-27 at 12 43 31 PM" src="https://github.com/user-attachments/assets/ee2ce7b9-619d-4bd2-9067-342eec4dfa11" />
 
