@@ -16,5 +16,3 @@ The analysis highlights the dominant role of the Classic category and Large-size
 
 <img width="1002" alt="Screenshot 2024-12-27 at 12 43 31 PM" src="https://github.com/user-attachments/assets/ee2ce7b9-619d-4bd2-9067-342eec4dfa11" />
 
-![WhatsApp Image 2024-12-26 at 23 11 17](https://github.com/user-attachments/assets/6c90ac97-0dc5-4e12-9b02-94f1af4aed9a)
-
